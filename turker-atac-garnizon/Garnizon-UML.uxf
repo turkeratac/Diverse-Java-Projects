@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>840</x>
+      <y>260</y>
+      <w>210</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>Askerlerim
+--
+- askerRutbesi : string
+- askerAdSoyadi : string
+- askerMemleketi : string
+--
++ tekmilVer() : string
++ emirUygula() : string</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
